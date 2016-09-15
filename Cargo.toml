@@ -1,0 +1,8 @@
+[package]
+name = "nb_path"
+version = "1.0.0"
+authors = ["Martin Vassor <martin.vassor@epfl.ch>"]
+description = "Réponse au problème du couloir: Combien y a-t-il de chemin puor aller de l'accueil à la Kfet?, INRIA Grenoble, été 2016"
+readme = "README"
+
+[dependencies]

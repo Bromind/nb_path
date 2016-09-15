@@ -1,0 +1,4 @@
+Le programme calcule le nombre de chemin entre deux points d'un graphe.
+
+
+Le fichier de graphe contient des lignes de 3 caractères. Chaque ligne donne une arête du graphe au format "a b" pour une arête de a vers b.
